@@ -1,4 +1,4 @@
 # hello-world
 
-Just another git repo, created by estella144.
-I will use this for experimenting from time to time.
+Just another git repo, originally created by estella144.
+(insert name here) will use this for experimenting from time to time.
